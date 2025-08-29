@@ -219,7 +219,7 @@
 
     <!-- ===== Header Card ===== -->
     <header class="header">
-      <img src="profile.jpg" alt="Ameer Khan Profile Picture" class="profile-pic">
+      <img src="project.jpg" alt="Ameer Khan Profile Picture" class="profile-pic">
       <h1>A. Ameer Khan</h1>
       <p>"The secret to getting ahead is getting started."</p>
       <div class="contact">
